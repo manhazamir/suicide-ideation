@@ -1,4 +1,4 @@
-# Mental Health Screener (Android)
+# A Mental Health Screener (Android)
 
 A speech-driven Android app for mental health self-assessment in Urdu and English.
 
