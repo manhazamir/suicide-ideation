@@ -2,11 +2,9 @@
 
 A speech-driven Android app for mental health self-assessment in Urdu and English.
 
----
-
 ## Why we built this
 
-Mental health resources in Urdu barely exist. The few apps that do almost always require English fluency which excludes a huge portion of the people who actually need them. I wanted to see if I could build something that met people where they were: speaking, in their own language, on a phone, in private.
+Mental health resources in Urdu barely exist. The few apps that do almost always require English fluency which excludes a huge portion of the people who actually need them. I wanted to see if I could build something that could meet people from my community.
 
 The app screens for stress, anxiety, depression, and suicidal ideation using clinically-grounded instruments — DASS-42 for the first three, and a regression model trained on Reddit's r/SuicideWatch for the fourth. It speaks each question out loud, listens to the answer, scores it, and produces a severity band the user can take to a clinician.
 
